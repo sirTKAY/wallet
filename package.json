@@ -151,6 +151,7 @@
     "bootstrap-material-design": "^0.5.10",
     "child_process": "^1.0.2",
     "devtron": "^1.4.0",
+    "electron": ">=9.3.1"
     "electron-debug": "^1.2.0",
     "electron-download-manager": "git+https://github.com/cryptounited/electron-download-manager.git",
     "electron-settings": "^3.1.1",
